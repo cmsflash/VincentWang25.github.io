@@ -1,2 +1,2 @@
 # VincentWang25.github.io
-personal website
+Ziyue Wang's personal website

@@ -1,3 +1,15 @@
-name: Vincent Wang
+title: Vincent Wang
+email: ziyue.wang0125@gmail.com
+description: Personal site for Ziyue Wang, an AI researcher and a software engieer at Google.
+baseurl: ""
+url: "https://VincentWang25.github.io"
+github_username:  VincentWang25
+
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+remote_theme: jekyll/minima
+google_analytics: G-6SRK9DNEMH
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-remote-theme
